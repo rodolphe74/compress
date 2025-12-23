@@ -1,2 +1,2 @@
 # compress
-PackBits compression in Rust
+[PackBits](https://en.wikipedia.org/wiki/PackBits) compression in Rust
