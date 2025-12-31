@@ -1,5 +1,4 @@
 use std::fs::File;
-
 use compress::packbits::{compress, uncompress};
 
 fn main() {
